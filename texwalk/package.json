@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:texwalk.helloWorld"
+    "onLanguage:latex"
   ],
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "texwalk.helloWorld",
-      "title": "Hello World"
+      "command": "texwalk.umlautCorection",
+      "title": "TexWalk: Correct umlauts"
     }]
   },
   "scripts": {
