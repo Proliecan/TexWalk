@@ -4,7 +4,7 @@ Just a few useful tools I needed for my LaTeX workflow.
 
 ## Features
 
- + texwalt.correctUmlauts: Corrects umlauts in the current document from "[aouAOUsS] format to utf-8 format.
+ + texwalk.correctUmlauts: Corrects umlauts in the current document from "[aouAOUsS] format to utf-8 format.
  + 
 ## Known Issues
 
