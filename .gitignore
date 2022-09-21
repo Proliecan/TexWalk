@@ -1,0 +1,16 @@
+#==========
+# VSCode
+#==========
+.vscode
+.vscodeignore
+
+#==========
+# npm
+#==========
+node_modules
+package-lock.json
+
+#==========
+# Dumb Shit
+#==========
+CHANGELOG.md
