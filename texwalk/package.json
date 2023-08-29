@@ -10,7 +10,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:latex"
+    "onLanguage:tex",
+    "onCommand:texwalk.umlautCorection"
   ],
   "main": "./extension.js",
   "contributes": {
